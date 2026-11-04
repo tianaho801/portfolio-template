@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Your Name"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Projects
+        menu:
+          - text: "Project 1"
+            href: project1.qmd
+          - text: "Project 2"
+            href: project2.qmd
+      - href: about.qmd
+        text: About Me
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

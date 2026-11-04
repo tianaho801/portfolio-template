@@ -1,0 +1,7 @@
+---
+title: "Project 2"
+---
+
+Add another project here. To add more, copy this file, rename it (for example `project3.qmd`), and add it to the `menu:` list in `_quarto.yml`.
+
+[Link to the code on GitHub](https://github.com/your-username)

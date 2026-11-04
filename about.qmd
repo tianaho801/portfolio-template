@@ -1,0 +1,15 @@
+---
+title: "About Me"
+---
+
+Write about your hobbies, interests, and what you care about.
+
+### Moments
+
+Add photos by uploading them to the `images/` folder, then list them like this (delete the example when you add real ones):
+
+::: {layout-ncol=2}
+![](images/profile.jpg)
+
+![](images/profile.jpg)
+:::

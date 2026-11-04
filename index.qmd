@@ -1,0 +1,26 @@
+---
+title: "Your Name"
+image: images/profile.jpg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+---
+
+Hi! I'm [Your Name], a [year] at [school] studying [major(s)].
+Write 2-3 sentences about what you care about and what you're looking for.
+
+See more on my [About Me](about.html) page!
+
+### Find me online
+
+<a href="https://www.linkedin.com/in/your-handle/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30px" style="margin: 6px;"/>
+</a>
+<a href="https://github.com/your-username" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30px" style="margin: 6px;"/>
+</a>
+<a href="mailto:you@email.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30px" style="margin: 6px;"/>
+</a>

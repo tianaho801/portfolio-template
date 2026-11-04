@@ -1,0 +1,15 @@
+---
+title: "Project 1"
+---
+
+Describe the project in 2-3 sentences: what problem you worked on, what tools you used, and what you learned.
+
+## Option A: embed a page that is already online
+
+Replace the URL below with a published page (for example another GitHub Pages site).
+
+<iframe src="https://quarto.org/" width="100%" height="700px" style="border: none;"></iframe>
+
+## Option B: write it up here
+
+Paste your analysis or write your own sections. Delete whichever option you don't use.
